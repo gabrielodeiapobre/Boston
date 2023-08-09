@@ -10,7 +10,8 @@
 
 <body>
     <header class="cabecalho">
-        <img class="cabecalho-imagem" src="Atletico pr.png" alt="logo do Atletico PR">
+        <img class="cabecalho-imagem" src="boston.png" alt="Logo Boston Celtics
+        ">
         <ul class="cabecalho-lista">
             <li class="cabecalho-lista-item">Time</li>
             <li class="cabecalho-lista-item">Jogadores</li>
@@ -22,7 +23,7 @@
             <p class="Time-texto-um">O ano de 1924 está marcado na história do futebol paranaense. O esporte começava a ganhar certa notoriedade no cenário regional. Em 1923, após problemas com dívidas e vagas, a diretoria do América resolveu abrir mão do Estadual como forma de protesto. Foi ai que surgiu a ideia de convidar o presidente do Internacional, Arcésio Guimarães, para unificar os dois times e criar uma nova potência no futebol paranaense.</p>
             <p class="Time-texto-dois">Um ano e muitas reuniões depois, as duas diretorias conseguiram entrar em acordo quanto a cor do uniforme do novo time e deram o aperto de mão final que selou a união de América e Internacional. Surgia o maior clube de futebol do Paraná, o Clube Atlético Paranaense, fundado em 26 de março de 1924.</p>
         </div> 
-        <img class="time-imagem" src="athletico-paranaense.png" alt="Escudo do Atlético">
+        <img class="time-imagem" src="celtics.png" alt="Escudo do Boston">
      </section>
      <section class="Jogadores">
         <h2 class="Jogadores-titulo">Jogadores:</h2>
